@@ -1,5 +1,5 @@
 {
-    "name": "techlifyinc/filemanager-module",
+    "name": "techlify/filemanager-module",
     "description": "Module to manage the file system",
     "type": "laravel-module",
     "authors": [
