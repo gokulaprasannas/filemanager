@@ -17,7 +17,7 @@ API:
    1) FileManager::upload(disk_name, sub_path);
 
       Returns:
-            return [
+           [
              'url' => 'Absolute URL',
              'file' => Relative URL,
              'file_size' => Uploaded file size
